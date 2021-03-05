@@ -5,6 +5,7 @@ Student of RS School
 
 ## contacts 
 
+__Date of birth:__ 27 apr 1984\
 __e-mail:__ Sashik-84@mail.ru\
 __phone number:__ +7(912)012-8999
 
@@ -42,4 +43,4 @@ Izhevsk State Technical University, specialty technician.
 
 ### english
 
-A0
+A1
