@@ -1,29 +1,31 @@
 # Alexandr Zhuykov
+
 Student of RS School
 
 ![Screenshot](myphoto.jpg)
 
-## contacts 
+## contacts
 
-__Date of birth:__ 27 apr 1984\
-__e-mail:__ Sashik-84@mail.ru\
-__phone number:__ +7(912)012-8999
+**Date of birth:** 27 apr 1984\
+**e-mail:** Sashik-84@mail.ru\
+**phone number:** +7(912)012-8999
 
 ### personal information
 
 My goal is to gain knowledge and reach a professional level
-in programming. 
+in programming.
 I want to become a JavaScript front-end developer.
 Technical mindset. Diversified and regularly improve myself
 Ready to new knowledge and experience.
 
 ### skills
 
-learning javascript
+learning javascript.
 
 ### code example
 
 in JavaScript:
+
 ```
 let i;
 for (i=0; i<5; i++) {
@@ -38,7 +40,7 @@ no much
 ### education
 
 `2001-2004`
-Faculty of Computer Science, 
+Faculty of Computer Science,
 Izhevsk State Technical University, specialty technician.
 
 ### english
